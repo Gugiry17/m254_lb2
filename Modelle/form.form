@@ -1,0 +1,85 @@
+{
+  "components": [
+    {
+      "label": "Vorname",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0eaek9z",
+        "columns": 8
+      },
+      "id": "Field_0tdcy2n",
+      "key": "textfield_figj2"
+    },
+    {
+      "label": "Nachname",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0eaek9z",
+        "columns": 8
+      },
+      "id": "Field_1c96cr6",
+      "key": "textfield_ucwt1"
+    },
+    {
+      "label": "E-Mail",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1nko8b8",
+        "columns": 8
+      },
+      "id": "Field_0oyyjzd",
+      "key": "textfield_0agz6f"
+    },
+    {
+      "label": "Projektname",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1nko8b8",
+        "columns": null
+      },
+      "id": "Field_027kwv4",
+      "key": "textfield_6f0s69"
+    },
+    {
+      "subtype": "date",
+      "dateLabel": "Deadline",
+      "label": "Date time",
+      "type": "datetime",
+      "layout": {
+        "row": "Row_0j7ah0o",
+        "columns": null
+      },
+      "id": "Field_12eohq5",
+      "key": "datetime_ddzex8"
+    },
+    {
+      "label": "Beschreibung",
+      "type": "textarea",
+      "layout": {
+        "row": "Row_1hrstrh",
+        "columns": null
+      },
+      "id": "Field_1qbjsxz",
+      "key": "textarea_w4liy"
+    },
+    {
+      "action": "submit",
+      "label": "Auftrag einreichen",
+      "type": "button",
+      "layout": {
+        "row": "Row_0uu4jje",
+        "columns": 2
+      },
+      "id": "Field_0fagru2"
+    }
+  ],
+  "type": "default",
+  "id": "Form_13b2fs3",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}
