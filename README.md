@@ -66,8 +66,6 @@ Der Lernende geht anschliessend auf die Webseite und füllt, mit seinen Informat
 Achtung unser Prozess beschrieb, bildet nur die Youniqeu interne Seite ab und somit nur die schritte ab erhalt eines Auftrages auf der Webseite.
 <br clear="left"/>
 
-Hier ist der korrigierte Text:
-
 Sobald der Auftrag nun im Onlineformular auf der Webseite eingetragen wurde, wird eine E-Mail erstellt, in der die wichtigsten Informationen für den Auftrag enthalten sind:
 
 - Vorname
