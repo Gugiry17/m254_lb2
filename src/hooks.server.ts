@@ -18,7 +18,7 @@ const transporter = nodemailer.createTransport({
 
 client.subscribe('sendConfirm', async ({ task, taskService }) => {
 	await transporter.sendMail({
-		from: 'no-reply@lezurex.com',
+		from: 'Younique <no-reply@lezurex.com>',
 		to: task.variables.get('email'),
 		subject: 'Dein Auftrag wurde empfangen',
 		text: `Dein Auftrag "${task.variables.get('projectname')}" wurde empfangen`
@@ -28,7 +28,7 @@ client.subscribe('sendConfirm', async ({ task, taskService }) => {
 
 client.subscribe('sendRejection', async ({ task, taskService }) => {
 	await transporter.sendMail({
-		from: 'no-reply@lezurex.com',
+		from: 'Younique <no-reply@lezurex.com>',
 		to: task.variables.get('email'),
 		subject: 'Dein Auftrag wurde abgelehnt',
 		text: `Dein Auftrag "${task.variables.get('projectname')}" wurde aufgrund mangelnder Kapazität oder Uneignung abgelehnt.`
@@ -38,7 +38,7 @@ client.subscribe('sendRejection', async ({ task, taskService }) => {
 
 client.subscribe('sendBroSis', async ({ task, taskService }) => {
 	await transporter.sendMail({
-		from: 'no-reply@lezurex.com',
+		from: 'Younique <no-reply@lezurex.com>',
 		to: task.variables.get('email'),
 		subject: 'Dein Auftrag wird bearbeitet',
 		text: `Dein Auftrag "${task.variables.get('projectname')}" wurde angenommen und wird nun von ${task.variables.get('broFound')} bearbeitet.`
