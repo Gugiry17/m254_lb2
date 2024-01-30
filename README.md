@@ -8,7 +8,7 @@
 
 - Lenny Angst
 - Micha Baumann
-- Denys Zimmerann
+- Denys Zimmermann
 
 ## Auftragstellung
 
