@@ -191,3 +191,61 @@ if(done){
         </tr>
     </tbody>
 </table>
+
+
+##Testcasee
+
+###Testfall: Auftragseingabe in einem Formular
+
+**Ziel:** Überprüfen Sie, ob das System korrekt und effektiv Auftragsinformationen über ein Formular entgegennimmt.
+
+**Vorbedingungen:**
+1. Der Benutzer hat Zugriff auf die Youniqeu webseite.
+
+**Schritte:**
+
+1. Öffnen Sie die Webseite
+2. Navigieren Sie zum Menüpunkt "Auftragsformular".
+3. Füllen Sie alle erforderlichen Felder mit gültigen Daten aus.
+4. Klicken Sie auf die Schaltfläche "Auftrag speichern".
+
+
+**Erwartete Ergebnisse:**
+- Das Formular enthält alle erforderlichen Felder.
+- Das System akzeptiert gültige Eingaben und speichert die Auftragsinformationen korrekt.
+- Das System erkennt und behandelt ungültige Eingaben angemessen.
+- Die gespeicherten Daten sind korrekt und können später erfolgreich abgerufen werden.
+
+###Testfall: Auftragswertung
+
+**Ziel:** Überprüfen ob ein Auftrag geeignet ist für die bearbeitung durch Younique.
+
+**Vorbedingungen:**
+1. Auftrag wurde eingegeben 
+2. Auftrag wurde abgespeichert 
+
+**Schritte:**
+
+1. Durchlesen des Auftrages.
+2. Überprüfen des Absenders.
+3. Checken des Datums.
+4. Bewertung ob Der Auftrag geeignet ist oder nicht
+
+
+**Erwartete Ergebnisse:**
+- Falls der Auftrag nicht geeignet ist sollte der Auftrag abgelehnt werden.
+- Falls der Auftrag geeigent ist sollte der Auftrag angenommen werden und der nächste schritt eingeleitet werden.
+
+##Reflexion
+
+Die Erfahrungen der letzten 10 Tage mit Camunda waren äußerst lehrreich und haben uns die Möglichkeit geboten, das Modul von Grund auf zu erlernen und erste Schritte in der praktischen Anwendung zu machen. In unserem dreiköpfigen Team konnten wir bedeutende Fortschritte erzielen und wertvolle Einblicke in die Welt der Geschäftsprozessautomatisierung gewinnen.
+
+Die Lernkurve war steil, und wir haben ein solides Verständnis für die Grundlagen von Camunda entwickelt.
+
+Die Zusammenarbeit im Team war ein Schlüsselaspekt unserer Erfahrung. Durch den kontinuierlichen Austausch von Ideen und die gemeinsame Arbeit konnten wir voneinander lernen und Herausforderungen gemeinsam bewältigen. Dies förderte nicht nur den Wissensaustausch, sondern stärkte auch die Teamdynamik.
+
+Während des Projekts traten Herausforderungen und Fehler auf, die wir gemeinsam identifizierten und erfolgreich behoben haben. Dieser Prozess war entscheidend, um ein tieferes Verständnis für potenzielle Schwierigkeiten bei der Arbeit mit Camunda zu entwickeln.
+
+Nach den ersten 10 Tagen sind wir überzeugt von den vielfältigen Anwendungsmöglichkeiten von Camunda. Das Potenzial des Tools, komplexe Geschäftsprozesse zu automatisieren und zu optimieren, lässt uns optimistisch in die Zukunft blicken.
+
+Insgesamt war das Modul mit Camunda eine äußerst positive und produktive Erfahrung. Wir haben nicht nur eine neue Fähigkeit erworben, sondern auch ein solides Fundament gelegt, um Camunda effektiv in zukünftigen Projekten einzusetzen. Dieser Lernprozess hat nicht nur unsere individuellen Fähigkeiten verbessert, sondern auch die Zusammenarbeit und den Wissensaustausch innerhalb unseres Teams gestärkt. Wir freuen uns darauf, das Gelernte weiter zu vertiefen und in der Praxis noch umfassender einzusetzen.
