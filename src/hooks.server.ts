@@ -11,7 +11,9 @@ const transporter = nodemailer.createTransport({
 	auth: {
 		user: 'no-reply@lezurex.com',
 		pass: '***REMOVED***'
-	}
+	},
+	debug: true,
+	logger: true
 });
 
 client.subscribe('sendConfirm', async ({ task, taskService }) => {
@@ -29,7 +31,7 @@ client.subscribe('sendRejection', async ({ task, taskService }) => {
 		from: 'no-reply@lezurex.com',
 		to: task.variables.get('email'),
 		subject: 'Dein Auftrag wurde abgelehnt',
-		text: `Dein Auftrag "${task.variables.get('projectname')}" wurde aufgrund mangelnder Kapazität abgelehnt`
+		text: `Dein Auftrag "${task.variables.get('projectname')}" wurde aufgrund mangelnder Kapazität oder Uneignung abgelehnt.`
 	});
 	await taskService.complete(task);
 });
