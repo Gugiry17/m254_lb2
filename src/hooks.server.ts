@@ -1,7 +1,13 @@
-import { logger, Client as CamundaClient } from 'camunda-external-task-client-js';
+import {
+	logger,
+	Client as CamundaClient
+} from 'camunda-external-task-client-js';
 import nodemailer from 'nodemailer';
 
-const camundaConfig = { baseUrl: 'http://localhost:8080/engine-rest', use: logger };
+const camundaConfig = {
+	baseUrl: 'http://localhost:8080/engine-rest',
+	use: logger
+};
 const client = new CamundaClient(camundaConfig);
 
 const transporter = nodemailer.createTransport({

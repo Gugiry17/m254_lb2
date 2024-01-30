@@ -251,6 +251,17 @@ if (done) {
     </tbody>
 </table>
 
+## Schnittstelle Camunda <=> Website
+
+Das Auftragsformular läuft extern auf einer simplen Website, die wir mit
+SvelteKit erstellt haben. Beim Absenden des Auftrages wird direkt eine
+POST-Request mit allen Feldern an die Camunda REST API gesendet.
+
+Diese SvelteKit-Website agiert gleichzeitig auch als Backend für den
+E-Mail-Versand. Mittels einer Camunda-Library können wir hier auf die
+verschiedenen Topics aus unserem BPMN-Prozess lauschen. Der E-Mail-Versand
+erfolgt schliesslich über einen externen SMTP-Server.
+
 ## Testcases
 
 ### Testfall: Auftragseingabe in einem Formular
