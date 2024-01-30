@@ -192,7 +192,7 @@ if(done){
     </tbody>
 </table>
 
-## Testcasee
+## Testcase
 
 ### Testfall: Auftragseingabe in einem Formular
 
@@ -237,14 +237,12 @@ if(done){
 
 ## Reflexion
 
-Die Erfahrungen der letzten 10 Tage mit Camunda waren äusserst lehrreich und haben uns die Möglichkeit geboten, das Modul von Grund auf zu erlernen und erste Schritte in der praktischen Anwendung zu machen. In unserem dreiköpfigen Team konnten wir bedeutende Fortschritte erzielen und wertvolle Einblicke in die Welt der Geschäftsprozessautomatisierung gewinnen.
+Die Erfahrungen der letzten 10 Tage mit Camunda waren äusserst lehrreich und haben uns die Möglichkeit geboten, das Modul von Grund auf zu erlernen und erste Schritte in der praktischen Anwendung zu machen. Unser dreiköpfiges Team hat bedeutende Fortschritte gemacht und wertvolle Einblicke in die Geschäftsprozessautomatisierung gewonnen. Die Lernkurve war steil, und wir haben ein solides Verständnis für die Grundlagen von Camunda entwickelt.
 
-Die Lernkurve war steil, und wir haben ein solides Verständnis für die Grundlagen von Camunda entwickelt.
+Die Zusammenarbeit im Team war entscheidend. Durch den regelmässigen Ideenaustausch und die gemeinsame Arbeit konnten wir voneinander lernen und Herausforderungen gemeinsam bewältigen. Dies stärkte nicht nur die Teamdynamik, sondern förderte auch den Wissensaustausch.
 
-Die Zusammenarbeit im Team war ein Schlüsselaspekt unserer Erfahrung. Durch den kontinuierlichen Austausch von Ideen und die gemeinsame Arbeit konnten wir voneinander lernen und Herausforderungen gemeinsam bewältigen. Dies förderte nicht nur den Wissensaustausch, sondern stärkte auch die Teamdynamik.
+Wir haben während des Projekts Herausforderungen und Fehler gemeinsam identifiziert und erfolgreich behoben. Dies half uns, ein tieferes Verständnis für potenzielle Schwierigkeiten bei der Arbeit mit Camunda zu entwickeln.
 
-Während des Projekts traten Herausforderungen und Fehler auf, die wir gemeinsam identifizierten und erfolgreich behoben haben. Dieser Prozess war entscheidend, um ein tieferes Verständnis für potenzielle Schwierigkeiten bei der Arbeit mit Camunda zu entwickeln.
+Nach den ersten 10 Tagen sind wir von den vielfältigen Anwendungsmöglichkeiten von Camunda überzeugt. Das Tool hat das Potenzial, komplexe Geschäftsprozesse zu automatisieren und zu optimieren, und wir sehen optimistisch in die Zukunft.
 
-Nach den ersten 10 Tagen sind wir überzeugt von den vielfältigen Anwendungsmöglichkeiten von Camunda. Das Potenzial des Tools, komplexe Geschäftsprozesse zu automatisieren und zu optimieren, lässt uns optimistisch in die Zukunft blicken.
-
-Insgesamt war das Modul mit Camunda eine äusserst positive und produktive Erfahrung. Wir haben nicht nur eine neue Fähigkeit erworben, sondern auch ein solides Fundament gelegt, um Camunda effektiv in zukünftigen Projekten einzusetzen. Dieser Lernprozess hat nicht nur unsere individuellen Fähigkeiten verbessert, sondern auch die Zusammenarbeit und den Wissensaustausch innerhalb unseres Teams gestärkt. Wir freuen uns darauf, das Gelernte weiter zu vertiefen und in der Praxis noch umfassender einzusetzen.
+Insgesamt war die Erfahrung mit Camunda äusserst positiv und produktiv. Wir haben nicht nur eine neue Fähigkeit erworben, sondern auch ein solides Fundament gelegt, um Camunda effektiv in zukünftigen Projekten einzusetzen. Dieser Lernprozess hat nicht nur unsere individuellen Fähigkeiten verbessert, sondern auch die Zusammenarbeit und den Wissensaustausch innerhalb unseres Teams gestärkt. Wir freuen uns darauf, das Gelernte weiter zu vertiefen und in der Praxis umfassender einzusetzen
