@@ -85,7 +85,7 @@ Möglichkeiten einen Auftrag bei uns einzureichen:
    Der Lernende geht anschliessend auf die Webseite und füllt mit seinen Informationen
    das Auftragsformular aus.
 
-> [!NOTE] Hinweis
+> [!NOTE]
 >
 > Unser Prozessbeschrieb bildet nur die Schritte ab Auftragseingang auf der
 > Website ab. Die Schritte vor dem Auftragseingang werden nicht abgebildet, da
