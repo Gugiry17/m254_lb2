@@ -192,9 +192,9 @@ if(done){
     </tbody>
 </table>
 
-##Testcasee
+## Testcasee
 
-###Testfall: Auftragseingabe in einem Formular
+### Testfall: Auftragseingabe in einem Formular
 
 **Ziel:** Überprüfen Sie, ob das System korrekt und effektiv Auftragsinformationen über ein Formular entgegennimmt.
 
@@ -215,7 +215,7 @@ if(done){
 - Das System erkennt und behandelt ungültige Eingaben angemessen.
 - Die gespeicherten Daten sind korrekt und können später erfolgreich abgerufen werden.
 
-###Testfall: Auftragswertung
+### Testfall: Auftragswertung
 
 **Ziel:** Überprüfen ob ein Auftrag geeignet ist für die bearbeitung durch Younique.
 
@@ -235,7 +235,7 @@ if(done){
 - Falls der Auftrag nicht geeignet ist sollte der Auftrag abgelehnt werden.
 - Falls der Auftrag geeigent ist sollte der Auftrag angenommen werden und der nächste schritt eingeleitet werden.
 
-##Reflexion
+## Reflexion
 
 Die Erfahrungen der letzten 10 Tage mit Camunda waren äußerst lehrreich und haben uns die Möglichkeit geboten, das Modul von Grund auf zu erlernen und erste Schritte in der praktischen Anwendung zu machen. In unserem dreiköpfigen Team konnten wir bedeutende Fortschritte erzielen und wertvolle Einblicke in die Welt der Geschäftsprozessautomatisierung gewinnen.
 
